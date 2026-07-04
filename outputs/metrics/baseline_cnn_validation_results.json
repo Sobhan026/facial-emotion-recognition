@@ -1,0 +1,7 @@
+{
+    "val_loss": 1.1176035404205322,
+    "val_accuracy": 0.5728614926338196,
+    "epochs_requested": 25,
+    "batch_size": 64,
+    "use_class_weights": false
+}

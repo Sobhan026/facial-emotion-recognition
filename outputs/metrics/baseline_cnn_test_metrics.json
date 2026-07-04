@@ -1,0 +1,9 @@
+{
+    "test_loss": 1.1067087650299072,
+    "test_accuracy_from_keras": 0.5881861448287964,
+    "test_accuracy": 0.5881861242685985,
+    "macro_precision": 0.5912180547579707,
+    "macro_recall": 0.5210859794710391,
+    "macro_f1": 0.5303733673280931,
+    "weighted_f1": 0.5730548072452412
+}

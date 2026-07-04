@@ -1,0 +1,10 @@
+{
+    "recommended_threshold": 0.55,
+    "accepted_accuracy": 0.8147191736604261,
+    "coverage": 0.43159654499860683,
+    "rejection_rate": 0.5684034550013931,
+    "raw_accuracy": 0.5940373363053776,
+    "minimum_accepted_accuracy_rule": 0.8,
+    "minimum_coverage_rule": 0.4,
+    "selection_note": "Selected highest-coverage threshold satisfying minimum accepted accuracy and minimum coverage."
+}

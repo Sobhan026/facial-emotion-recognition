@@ -1,0 +1,29 @@
+[
+    {
+        "Model":"Baseline CNN",
+        "Test Accuracy":0.5881861243,
+        "Macro Precision":0.5912180548,
+        "Macro Recall":0.5210859795,
+        "Macro F1":0.5303733673,
+        "Weighted F1":0.5730548072,
+        "Test Loss":1.106708765
+    },
+    {
+        "Model":"Improved CNN + Class Weights",
+        "Test Accuracy":0.5252159376,
+        "Macro Precision":0.4439875655,
+        "Macro Recall":0.4895966178,
+        "Macro F1":0.4439075091,
+        "Weighted F1":0.4947736751,
+        "Test Loss":1.2127561569
+    },
+    {
+        "Model":"Improved CNN No Class Weights",
+        "Test Accuracy":0.5976595152,
+        "Macro Precision":0.4854706394,
+        "Macro Recall":0.5027192479,
+        "Macro F1":0.4869591848,
+        "Weighted F1":0.581134889,
+        "Test Loss":1.063637495
+    }
+]
