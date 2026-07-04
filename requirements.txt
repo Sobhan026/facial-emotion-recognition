@@ -1,0 +1,21 @@
+# Core scientific stack
+numpy>=1.26,<3.0
+pandas>=2.2,<3.0
+matplotlib>=3.8,<4.0
+scikit-learn>=1.4,<2.0
+
+# Deep learning
+tensorflow==2.21.0
+
+# Computer vision
+opencv-python>=4.9,<5.0
+
+# Testing
+pytest>=9.0,<10.0
+
+# Notebooks
+jupyter>=1.0,<2.0
+ipykernel>=6.29,<7.0
+
+# Optional but useful for progress/logging
+tqdm>=4.66,<5.0
