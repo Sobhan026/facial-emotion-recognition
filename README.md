@@ -584,4 +584,4 @@ Main reason:
 
 This project implements a complete facial emotion recognition pipeline with a reliability layer.
 
-The final system does not blindly force predictions. It can output `Uncertain` when confidence is too low, making the project more realistic and safer for real-time demonstration..
+The final system does not blindly force predictions. It can output `Uncertain` when confidence is too low, making the project more realistic and safer for real-time demonstration.
